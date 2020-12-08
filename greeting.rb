@@ -1,4 +1,4 @@
 
 def greeting
-  
+
 end
